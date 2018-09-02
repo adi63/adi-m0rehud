@@ -65,22 +65,6 @@
 		"fgcolor"	     	         				"0 0 0 255"
 	}
 	
-	"PlayerStatusHealthValueShadowExtra"
-	{
-		"ControlName"	          				 	"CExLabel"
-		"fieldName"	  	         				 	"PlayerStatusHealthValueShadowExtra"
-		"xpos"	    		         				"23"
-		"ypos"	    		         				"3"	
-		"zpos"	    		         				"5"
-		"wide"		    	         				"150"
-		"tall"		    	         				"150"
-		"visible"	    	         				"1"
-		"enabled"	    	         				"1"
-		"labelText"	  	         				 	"%Health%"
-		"textAlignment"	         				 	"center"	
-		"font"                   				 	"M0refont44"
-		"fgcolor"	     	         				"0 0 0 0"
-	}
 	
 	"PlayerStatusAnchor"
 	{
