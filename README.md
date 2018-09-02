@@ -5,7 +5,7 @@ Lots of quick and messy edits, etc. If you've happened to come across this hud s
 .  
 99% of this hud is Hypnotize's updated m0rehud. All credits to him, the original creator m0re, and all the other people who've maintaned and updated the hud.  
 .  
-Some low quality screenshots: https://imgur.com/a/cE8Z4ZS (might be outdated.  
+Some low quality screenshots: https://imgur.com/a/cE8Z4ZS (might be outdated)  
 .  
 Damage Numbers:
 R 235
