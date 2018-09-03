@@ -22,8 +22,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueScore"
-		"xpos"										"c-92"
-		"ypos"										"r45"
+		"xpos"										"c-88"
+		"ypos"										"r43"
 		"zpos"										"8"
 		"wide"										"50"
 		"tall"										"35"
@@ -54,8 +54,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueScoreShadow"
-		"xpos"										"c-91"
-		"ypos"										"r44"
+		"xpos"										"c-87"
+		"ypos"										"r42"
 		"zpos"										"7"
 		"wide"										"50"
 		"tall"										"35"
@@ -86,8 +86,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedScore"
-		"xpos"										"c44"
-		"ypos"										"r45"
+		"xpos"										"c40"
+		"ypos"										"r43"
 		"zpos"										"8"
 		"wide"										"50"
 		"tall"										"35"
@@ -118,8 +118,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedScoreShadow"
-		"xpos"										"c45"
-		"ypos"										"r44"
+		"xpos"										"c41"
+		"ypos"										"r42"
 		"zpos"										"7"
 		"wide"										"50"
 		"tall"										"35"

@@ -31,8 +31,8 @@ Scheme
 		"Main Menu Labels"									"226 0 100 255"
 		"Class Selection"									"226 0 100 255"
 		
-		"M0reBlue"											"0 120 201 255"
-		"M0reRed"											"235 58 58 255"
+		"M0reBlue"											"100 120 140 255"
+		"M0reRed"											"165 60 60 255"
 		
 		"TanLight"											"235 226 202 255"
 	}
