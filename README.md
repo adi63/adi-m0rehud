@@ -1,4 +1,4 @@
-# adi-m0rehud
+# adi-m0rehud DISCONTINUED
 
 Edited m0rehud, taking slight inspiration from huds like Oxide. Not planning on making this hud public for now (and probably won't ever unless I edit it so much it won't resemble m0rehud anymore), I've created this repository mostly for my own convenience.
 Lots of quick and messy edits, etc. If you've happened to come across this hud somehow and want to use it, use at own risk.  
